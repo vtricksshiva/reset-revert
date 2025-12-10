@@ -1,2 +1,1 @@
 Feature 5
-second_line
